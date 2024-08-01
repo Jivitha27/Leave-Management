@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8fc5823883b70210ee6efecfeeaad360" label="Leave Management" max_length="40" name="x_1503048_leave_ma_leave_management" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="type_of_leave" type="string"/>
+    </element>
+</database>
